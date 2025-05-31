@@ -3,15 +3,15 @@
 Image search app
 An app for searching different photos based on database Pixabay.
 
-## Technologies used:
+### Technologies used:
 HTML5, CSS3, JavaScript, Vite compiler.
 
-## Libraries:
+### Libraries:
 Axios, Izitoast, Simplelightbox.
 
-## Features:
+### Features:
 Pagination, fetch, modal window.
 
-## Role:
+### Role:
 Developer.
 
